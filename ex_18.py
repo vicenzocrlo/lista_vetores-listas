@@ -7,3 +7,4 @@ for n in range(len(lista)-1,-1,-1):
 print(lista_reversa)
 
 
+.

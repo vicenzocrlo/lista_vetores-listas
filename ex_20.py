@@ -15,3 +15,5 @@ lista_tarefas = []
 print(menu)
 
 entrada = input("Digite a opção da operação que você deseja realizar")
+
+.

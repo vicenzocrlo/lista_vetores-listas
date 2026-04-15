@@ -20,3 +20,4 @@ while True:
         carrrinho.append(entrada_3)
 
 
+ .
